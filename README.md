@@ -1,0 +1,1 @@
+I'm learning HTML. I've tried a lot of other tools, but so far none have done half the job explaining what I"m actually doing half as well as Odin. Not sure what this project will have me do, but I'm stoked the find out!
